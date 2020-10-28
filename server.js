@@ -28,7 +28,7 @@ app.get('/', function (req, res) {
 
     //Muestra el home.hbs y se le envía un objeto como parámetro
     res.render('home', {
-        nombre: 'JUAN GABRIEL SANCHEZ'
+        nombre: 'AMOR DE MI VIDA!'
     })
 });
 
